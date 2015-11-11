@@ -1,0 +1,7 @@
+== Spring Boot for the web tier
+
+This is the sample app used during the Spring Boot for the web tier university session at Devoxx.
+
+This repository contains one commit per step to reach a complete auto-configuration. Refer to the commit messages for more information on what each step does.
+
+NOTE: See https://www.youtube.com/watch?v=7cemYpV1fNI[the recording of this presentation].
